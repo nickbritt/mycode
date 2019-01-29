@@ -1,6 +1,7 @@
 # mycode (Learning Python)
 
 Network engineer trying to learn Python
+Learning to version control projects with git
 
 ## Getting Started
 
